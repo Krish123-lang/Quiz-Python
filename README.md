@@ -33,5 +33,10 @@ iv) Check your total score in the end.
 
 v) There are only 4 questions, but you can add more by understanding the code.
 
+# OUTPUT
+
+![quiz_output](https://user-images.githubusercontent.com/56486342/224896534-7923324e-907f-491d-a8b0-067bc6274392.png)
+
+
 
 Thank You. 🙏
