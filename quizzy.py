@@ -5,7 +5,7 @@ playing = input("Do you want to play?").lower()
 if playing != "yes":
     quit()
 
-print("Okay! Let's play.")
+print("Okay! Let's play.\n")
 #################################
 
 
@@ -52,7 +52,7 @@ while True:
         print(f"Correct !!! Your score is {i+1}\n ")
         i += 1
     else:
-        print(f"Incorrect Answer! The correct answer is b.\n")
+        print(f"Incorrect Answer! The correct answer is c.\n")
 
     # *******************************************************************
 
@@ -68,7 +68,7 @@ while True:
         i += 1
         break
     else:
-        print(f"Incorrect Answer! The correct answer is b.\n")
+        print(f"Incorrect Answer! The correct answer is c.\n")
         break
 
 print(f"Thank you for playing. Your final score is {i}\n")
